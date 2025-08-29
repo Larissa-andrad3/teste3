@@ -4,25 +4,22 @@
 
 ## 📖 About
 
-**Moto Unplugged 2.0** trata-se de um projeto desenvolvido com a finalidade de otimizar a gestão do tempo do usuário, promover maior foco e contribuir para a melhoria de seu desempenho em atividades específicas.
+**Moto Unplugged 2.0** this is a project developed with the purpose of optimizing the user's time management, promoting greater focus and contributing to improving their performance in specific activities.
 
 ## 🎯 Target audience
 
-- 👨‍💻 Profissionais que
-  enfrentam distrações
-  durante o expediente
-- 👨‍🎓 Estudantes que
-  desejam melhorar a
-  concentração nos
-  estudos.
-- 👨‍💼 Usuários
-  interessados em bem-
-  estar, minimalismo digital
-  e produtividade.
+- 👨‍💻 Professionals who
+  face distractions
+  during their workday
+- 👨‍🎓 Students who
+  want to improve their
+  concentration in their
+  studies.
+- 👨‍💼 Users interested in well-being, digital minimalism and productivity.
 
 ## 📈 What the app offers to society
 
-O Moto Unplugged 2.0 contribui para a sociedade ao promover o uso consciente da tecnologia, aumentar a produtividade e o foco em atividades diárias, e incentivar práticas de bem-estar digital. Dessa forma, ajuda profissionais e estudantes a manterem uma rotina mais equilibrada e saudável, com impactos positivos individuais e coletivos.
+Moto Unplugged 2.0 contributes to society by promoting the conscious use of technology, increasing productivity and focus on daily activities, and encouraging digital well-being practices. In this way, it helps professionals and students maintain a more balanced and healthy routine, with positive individual and collective impacts.
 
 ## 🔨 Tools
 
